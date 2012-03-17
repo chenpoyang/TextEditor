@@ -1,0 +1,6 @@
+Introduction:
+	a text editor written with qt;
+
+Build:
+	qmake
+	make
